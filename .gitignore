@@ -1,0 +1,12 @@
+# fpc's midterm file
+*.o
+
+# library files
+*.ppu
+
+# binaries
+*.exe
+
+#Sublime text files
+*.sublime-project
+*.sublime-workspace
